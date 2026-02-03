@@ -1,5 +1,3 @@
-# Application Name
-
 A Ruby on Rails application designed for reliability, scalability, and clean architecture.
 
 ## Setup
